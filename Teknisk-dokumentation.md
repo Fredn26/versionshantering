@@ -5,3 +5,8 @@
 1. Rikta kameran mot ditt ansikte
 2. Le
 3. Du är inloggad oå din telefon
+4. 
+
+# Hur man sparar uppdateringar
+1. Interna minne
+2. Externa minne
