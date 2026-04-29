@@ -4,7 +4,7 @@
 # Intruktioner
 1. Rikta kameran mot ditt ansikte
 2. Le
-3. Du är inloggad oå din telefon
+3. Du är inloggad på din telefon
 4. 
 
 # Hur man sparar uppdateringar
