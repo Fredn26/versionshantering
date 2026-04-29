@@ -8,5 +8,5 @@
 4. 
 
 # Hur man sparar uppdateringar
-1. Interna minne
-2. Externa minne
+1. Internminne - HDD
+2. Externt minne - Usb, DVD
